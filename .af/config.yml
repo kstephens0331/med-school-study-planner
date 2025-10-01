@@ -1,0 +1,6 @@
+actions:
+  shell:
+    allow:
+      - rm
+      - npm
+      - node
