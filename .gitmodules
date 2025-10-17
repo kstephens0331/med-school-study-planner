@@ -1,0 +1,3 @@
+[submodule "med-study-partner"]
+	path = med-study-partner
+	url = https://github.com/kstephens0331/med-study-partner.git
